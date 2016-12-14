@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name particle-boards)(type Legacy)(uri "$(KIPRJMOD)/kicad-particle/particle-boards.mod")(options "")(descr ""))
+  (lib (name ebus-adapter)(type KiCad)(uri "$(KIPRJMOD)/ebus-adapter.pretty")(options "")(descr ""))
+)
